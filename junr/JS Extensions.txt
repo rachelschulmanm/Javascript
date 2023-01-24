@@ -1,0 +1,11 @@
+JS
+
+- Babel ES6/ES7: dzannotti
+
+- Babel JavaScript: Michael McDermott
+
+- Emmet JSS: Andrew Korin
+
+- JavaScript (ES6) code snippets: charalampos karypidis
+
+- JSS Snippets: visioncan (CSS in JS snippets for VS Code)
