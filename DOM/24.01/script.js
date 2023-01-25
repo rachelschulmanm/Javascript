@@ -14,5 +14,8 @@ const ul = document.querySelector("ul ");
 const last = document.querySelector("#last ");
 ul.removeChild(last);
 
-const title = document.querySelector(title);
-title.innerText = "“Master Of The Dom";
+// const title = document.querySelector(title);
+// title.innerText = "“Master Of The Dom";
+document.title = "Master Of The Dom";
+const newP = document.querySelector("p");
+newP.innerText = "HI";
