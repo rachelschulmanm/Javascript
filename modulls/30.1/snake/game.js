@@ -14,8 +14,7 @@ const gameBoard = document.getElementById("game-board");
 function main(currentTime) {
   if (gameOver) {
     if (confirm("you lost, Press ok to restart")) {
-      alert("lose");
-      // window.location - "/";
+      window.location = "./";
     }
     return;
   }
